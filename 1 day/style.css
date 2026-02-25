@@ -1,0 +1,51 @@
+.nav{
+    display: flex;
+    background-color:saddlebrown;
+    justify-content: space-between;
+    align-items: center;
+
+}
+body{
+    background-color:brown;
+    color: white;
+    font-size: 20px;
+
+}
+.menu{
+    display: flex;
+    justify-content: space-around;
+    width: 30%;
+    list-style: none;
+}
+img{
+    width: 500px;
+    height: 500px;
+    justify-content: flex-end;
+
+
+}
+.image{
+    display: flex;
+    justify-content: flex-end;
+    
+
+}
+button{
+    background-color: saddlebrown;
+    color: white;
+    width:150px;
+    height: 50px;
+    border-radius: 10px;
+}   
+.button{
+    display: flex;
+    justify-content: space-around;
+    width: 30%;
+    margin-top: 20px;
+
+}
+.whole{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
